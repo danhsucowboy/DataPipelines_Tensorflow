@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29009.5
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Datapipline", "Datapipline.pyproj", "{D62C0B8A-94B6-4B0C-B2F3-E938847383B5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D62C0B8A-94B6-4B0C-B2F3-E938847383B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D62C0B8A-94B6-4B0C-B2F3-E938847383B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2B325AB2-3EA4-46F8-99EA-F31E420946C8}
+	EndGlobalSection
+EndGlobal
